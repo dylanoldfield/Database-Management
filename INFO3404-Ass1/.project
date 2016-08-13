@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>INFO3404-Ass1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Assignments/info3404-week-2-java-db-ce267b5f133d/info3404-week-2-java-db-ce267b5f133d/src</locationURI>
+		</link>
+		<link>
+			<name>test</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Assignments/info3404-week-2-java-db-ce267b5f133d/info3404-week-2-java-db-ce267b5f133d/test</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
