@@ -1,3 +1,3 @@
-# INFO3404-1
+# Database management
 
 Repository for Databases II coursework 
